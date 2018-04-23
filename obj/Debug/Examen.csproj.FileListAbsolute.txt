@@ -1,0 +1,7 @@
+C:\Users\LI03\Desktop\Examen\bin\Debug\Examen.dll
+C:\Users\LI03\Desktop\Examen\bin\Debug\Examen.pdb
+C:\Users\LI03\Desktop\Examen\bin\Debug\nunit.framework.dll
+C:\Users\LI03\Desktop\Examen\bin\Debug\nunit.framework.xml
+C:\Users\LI03\Desktop\Examen\obj\Debug\Examen.csprojResolveAssemblyReference.cache
+C:\Users\LI03\Desktop\Examen\obj\Debug\Examen.dll
+C:\Users\LI03\Desktop\Examen\obj\Debug\Examen.pdb
